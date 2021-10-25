@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\bin\Debug\net5.0\EFDataAccessLayer.deps.json
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\bin\Debug\net5.0\EFDataAccessLayer.runtimeconfig.json
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\bin\Debug\net5.0\EFDataAccessLayer.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\bin\Debug\net5.0\EFDataAccessLayer.dll
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\bin\Debug\net5.0\ref\EFDataAccessLayer.dll
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\bin\Debug\net5.0\EFDataAccessLayer.pdb
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\obj\Debug\net5.0\EFDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\obj\Debug\net5.0\EFDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\obj\Debug\net5.0\EFDataAccessLayer.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\obj\Debug\net5.0\EFDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\obj\Debug\net5.0\EFDataAccessLayer.dll
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\obj\Debug\net5.0\ref\EFDataAccessLayer.dll
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\obj\Debug\net5.0\EFDataAccessLayer.pdb
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\obj\Debug\net5.0\EFDataAccessLayer.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\EntityFramworkPart-2\EFDataAccessLayer\obj\Debug\net5.0\EFDataAccessLayer.csproj.AssemblyReference.cache

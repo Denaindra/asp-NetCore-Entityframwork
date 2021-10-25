@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "earn ASP.NET Core 5.0 MVC by tutorialsEU", "earn ASP.NET Core 5.0 MVC by tutorialsEU\earn ASP.NET Core 5.0 MVC by tutorialsEU.csproj", "{EB2BDD85-A7C1-4275-B1B8-915D36D9A064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDataAccessLayer", "EFDataAccessLayer\EFDataAccessLayer.csproj", "{FCB5F8B9-8157-43AF-9F01-7288D8BE7BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2BDD85-A7C1-4275-B1B8-915D36D9A064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2BDD85-A7C1-4275-B1B8-915D36D9A064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2BDD85-A7C1-4275-B1B8-915D36D9A064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2BDD85-A7C1-4275-B1B8-915D36D9A064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB5F8B9-8157-43AF-9F01-7288D8BE7BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB5F8B9-8157-43AF-9F01-7288D8BE7BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB5F8B9-8157-43AF-9F01-7288D8BE7BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB5F8B9-8157-43AF-9F01-7288D8BE7BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEB3EC2-4B75-46AC-9EAE-3E644CC15E0E}
+	EndGlobalSection
+EndGlobal
